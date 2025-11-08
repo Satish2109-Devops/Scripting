@@ -6,7 +6,7 @@ if [ $a -gt $b ]
 then
 echo "a is greater than b"
 else
+echo "Added line from branch 2"
 echo "Adding new Line"
 echo "a is smaller tha b "
 fi
-
