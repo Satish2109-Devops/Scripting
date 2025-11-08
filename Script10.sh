@@ -6,6 +6,7 @@ if [ $a -gt $b ]
 then
 echo "a is greater than b"
 else
-echo "a is smaller than b"
+echo "Adding new Line"
+echo "a is smaller tha b "
 fi
 
